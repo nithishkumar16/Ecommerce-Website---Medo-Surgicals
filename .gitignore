@@ -11,3 +11,9 @@ frontend/node_modules/
 # Ignore build artifacts
 backend/dist/
 frontend/build/
+
+# Ignore assets
+frontend/src/assets/
+
+
+/Notes
