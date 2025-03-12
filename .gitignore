@@ -13,7 +13,8 @@ backend/dist/
 frontend/build/
 
 # Ignore assets
-frontend/src/assets/
+frontend/src/assets/medo products/
+frontend/src/assets/unwanted/
 
 
 /Notes
